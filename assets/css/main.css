@@ -332,7 +332,7 @@ body .explore-moew-btn:hover span img {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: #000;
+    background: #000000;
     position: relative;
 }
 
@@ -349,7 +349,7 @@ body .explore-moew-btn:hover span img {
 
 .hero-banner .hero-text {
     z-index: 1;
-    color: #fff;
+    color: #ffffff;
     text-align: center;
     padding-top: 65px;
 }
